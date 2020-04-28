@@ -1,6 +1,6 @@
 # Exercise 3.13 On the list
 
-In the exercise template there is a program that reads inputs from the user until an empty string is entered. Add the following functionality to it: after reading the inputs one more string is requested from the user. The program then tell whether that string was found in the list or not.
+Write a program that asks the user for input and adds it to a list. The program stops reading when the user enters an empty string. Add the following functionality to it: after reading the inputs one more string is requested from the user. The program then tell whether that string was found in the list or not.
 
 ```plaintext
 **Tom**
